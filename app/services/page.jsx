@@ -9,6 +9,12 @@ const services = [
     title: "Web Development",
     description:"",
     href: ""
+  },
+  {
+    num:"02",
+    title:"Wordpress Development",
+    description:"",
+    href: ""
   }
 ]
 

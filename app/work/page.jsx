@@ -33,7 +33,18 @@ const projects = [
     image:'',
     live:'',
     github:''
-  }
+  },
+  {
+    num:'03',
+    category:'API usage',
+    title:'Minor Project:Weather site',
+    description:" ",
+    stack:[{name:"Html 5"},{name:"Css 3"},{name: "Javascript"}],
+    image:'',
+    live:'',
+    github:''
+  },
+  
 ]
 
 const Work = () => {
