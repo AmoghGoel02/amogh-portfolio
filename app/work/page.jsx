@@ -29,7 +29,7 @@ const projects = [
     category:'mern-stack',
     title:'Project 2:Flipkart Clone',
     description:" ",
-    stack:[{name:"React.js"},{name:"Mongodb"},{name: "Nodejs"},{name:"Material UI"}],
+    stack:[{name:"React.js"},{name:"Mongodb"},{name: "Nodejs"}],
     image:'flip.png',
     live:'',
     github:''
