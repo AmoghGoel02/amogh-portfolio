@@ -20,7 +20,7 @@ const projects = [
     title:'Project 1:MDU Musix',
     description:" ",
     stack:[{name:"Html 5"},{name:"Css 3"},{name: "Javascript"}],
-    image:'',
+    image:'mdu.png',
     live:'',
     github:''
   },
@@ -30,7 +30,7 @@ const projects = [
     title:'Project 2:Flipkart Clone',
     description:" ",
     stack:[{name:"React.js"},{name:"Mongodb"},{name: "Nodejs"},{name:"Material UI"}],
-    image:'',
+    image:'flip.png',
     live:'',
     github:''
   },
@@ -40,7 +40,7 @@ const projects = [
     title:'Minor Project:Weather site',
     description:" ",
     stack:[{name:"Html 5"},{name:"Css 3"},{name: "Javascript"}],
-    image:'',
+    image:'weather.png',
     live:'',
     github:''
   },
