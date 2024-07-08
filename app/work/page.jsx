@@ -20,7 +20,7 @@ const projects = [
     title:'Project 1:MDU Musix',
     description:" ",
     stack:[{name:"Html 5"},{name:"Css 3"},{name: "Javascript"}],
-    image:'/assets/mdu.png',
+    image:'/assets/mdu.jpg',
     live:'',
     github:''
   },
@@ -29,8 +29,8 @@ const projects = [
     category:'mern-stack',
     title:'Project 2:Flipkart Clone',
     description:" ",
-    stack:[{name:"React.js"},{name:"Mongodb"},{name: "Nodejs"},{name:"Material UI"}],
-    image:'/assets/flip.png',
+    stack:[{name:"React.js"},{name:"Mongodb"},{name: "Nodejs"}],
+    image:'/assets/flip.jpg',
     live:'',
     github:''
   },
@@ -40,7 +40,7 @@ const projects = [
     title:'Minor Project:Weather site',
     description:" ",
     stack:[{name:"Html 5"},{name:"Css 3"},{name: "Javascript"}],
-    image:'/assets/weather.png',
+    image:'/assets/weather.jpg',
     live:'',
     github:''
   },
